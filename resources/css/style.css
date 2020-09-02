@@ -1,0 +1,21 @@
+/* UNIVERSAL STYLES */
+
+body {
+    margin: 0;
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h3 a {
+    font-size: 16px;
+    font-weight: normal;
+    color: aquamarine;
+}
